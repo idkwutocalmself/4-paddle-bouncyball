@@ -1,2 +1,4 @@
 # 4-paddle-bouncyball
-4 paddle bouncy ball
+Use arrow keys to move selected paddle.
+Use WASD to select a paddle.
+If the ball misses a paddle then you lose.
